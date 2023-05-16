@@ -1,0 +1,152 @@
+@font-face{font-family: Cairo-SemiBold-2;
+src: url(Cairo-SemiBold-2.woff);}
+body
+{ 
+background-size: cover;
+}
+#img-Medical-Tourism
+{
+	position: absolute;
+    right: 0px;
+    width: 35%;
+    height: 56pc;
+}
+form
+{
+    margin-top: 155px;
+	margin-left: 4pc;
+}
+label
+{
+	position: absolute;
+    left: 23pc;
+}
+.Female
+{
+    left: 15pc;
+	top: 41pc;
+}
+.Male
+{
+    left: 35pc;
+    top: 41pc;
+}
+.lab1{
+	margin: 0 0 0 3.5%;
+	text-align: right;
+	font-family: Cairo-SemiBold-2;
+}
+
+
+
+h1{
+	text-align: left;
+}
+
+
+.class1{
+	height:50%;
+	width: 40%;
+	padding: 20px;
+	text-align: right;
+	border-radius: 10px;
+	margin-top: 8%;
+	margin-left: 10%;
+}
+
+input[type]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=number]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=password]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=email]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=submit]{
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+
+
+}
+
+input[type=radio]{
+	width: 30%;
+	padding: 12px 20px;
+	margin: 9px -36px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+
+
+}
+
+img{
+	position: absolute;
+	width: 15%;
+	top: 0;
+}
+
+.class2{
+
+	width: 50%;
+	padding: 10px 0px;
+	margin: 0px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+}
+
+a{
+	color: white;
+	padding-left: 18pc;
+	text-decoration: none;
+}
